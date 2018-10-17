@@ -1,4 +1,4 @@
 # My-website
 This is really awesome website
-this is example branch
+Edit on example branch
 now editing on upate-readme branch 
